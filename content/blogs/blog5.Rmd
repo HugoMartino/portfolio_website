@@ -5,7 +5,7 @@ categories:
 date: "2020-10-19"
 description: "Covid-19 Data"
 draft: false
-image: pic09.jpg
+image: pangolin.jpg
 keywords: ""
 slug: blog5
 title: Covid-19 Data

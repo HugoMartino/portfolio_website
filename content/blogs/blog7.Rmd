@@ -5,7 +5,7 @@ categories:
 date: "2020-10-19"
 description: "Analysis of movies' IMDB ratings"
 draft: false
-image: pic09.jpg
+image: moon.png
 keywords: ""
 slug: blog7
 title: Analysis of movies' IMDB ratings
