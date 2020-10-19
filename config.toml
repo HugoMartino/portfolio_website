@@ -104,16 +104,10 @@ disqusShortname = ""
       url = "blogs/blog5"
 
     [[params.tiles.showcase]]
-      title = "Magna"
-      subtitle = "Lorem Etiam Nullam"
-      image = "pic03.jpg"
-      url = "blogs/magna"
-
-    [[params.tiles.showcase]]
-      title = "Ipsum"
-      subtitle = "Nisl Sed Aliquam"
+      title = "Project 3"
+      subtitle = "IMDB movie ratings"
       image = "pic04.jpg"
-      url = "blogs/ipsum"
+      url = "blogs/blog7"
 
     [[params.tiles.showcase]]
       title = "Consequat"
@@ -181,7 +175,7 @@ disqusShortname = ""
     [[params.contact.address]]
     title = "London Business School"
     street = "Regent's Park"
-    city = "City, ST 00000"
+    city = "London NW1 4SA"
     country = "United Kingdom"
 
   # Footer section
@@ -207,12 +201,12 @@ disqusShortname = ""
     
     [[params.footer.social]]
       icon = "fa-github"
-      url= "https://www.github.com"
+      url= "https://github.com/HugoMartino"
       label = "GitHub"
 
     [[params.footer.social]]
       icon = "fa-linkedin"
-      url= "https://www.linkedin.com"
+      url= "https://www.linkedin.com/in/hugo-martino/"
       label = "LinkedIn"
 
     [[params.footer.quicklinks]]
