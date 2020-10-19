@@ -106,7 +106,7 @@ disqusShortname = ""
     [[params.tiles.showcase]]
       title = "Project 3"
       subtitle = "IMDB movie ratings"
-      image = "blogs/clap.jpg"
+      image = "blogs/movie.jpg"
       url = "blogs/blog7"
 
     [[params.tiles.showcase]]
