@@ -84,7 +84,7 @@ disqusShortname = ""
     title = "Hi, my name is Hugo"
     subtitle = "Here's my Data Analytics portfolio website"
     buttonText = "Get Started"
-
+    image = "pic05.jpg"
 
   # Tiles Section
   [params.tiles]
@@ -94,25 +94,25 @@ disqusShortname = ""
     [[params.tiles.showcase]]
       title = "Project 1"
       subtitle = "Yield Curve Inversion"
-      image = "pic01.jpg"
+      image = "blogs/yield.jpg"
       url = "blogs/blog6"
 
     [[params.tiles.showcase]]
       title = "Project 2"
       subtitle = "Covid-19 Data"
-      image = "pic02.jpg"
+      image = "blogs/corona.jpg"
       url = "blogs/blog5"
 
     [[params.tiles.showcase]]
       title = "Project 3"
       subtitle = "IMDB movie ratings"
-      image = "pic04.jpg"
+      image = "blogs/clap.jpg"
       url = "blogs/blog7"
 
     [[params.tiles.showcase]]
       title = "CV"
       subtitle = "London Business School formatted CV"
-      image = "pic05.jpg"
+      image = "blogs/cv.jpg"
       url = "blogs/CV.pdf"
 
    # [[params.tiles.showcase]]
