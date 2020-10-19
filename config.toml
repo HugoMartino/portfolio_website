@@ -133,7 +133,7 @@ disqusShortname = ""
   [params.two]
     enable = true
     title = "About this Website"
-    subtitle = ""My name is Hugo Martino and I am currently studying a Masters 
+    subtitle = "My name is Hugo Martino and I am currently studying a Masters 
     in Financial Analysis at London Business School. I graduated from Warwick Business School 
     and worked in asset management and private banking. I am now looking for a career change 
     into investment banking. I believe data analytics teaches some transferable skills that can 
